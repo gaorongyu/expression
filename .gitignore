@@ -1,0 +1,17 @@
+target
+*~
+bin
+*.idea
+*.iml
+*.eml
+.project
+.settings
+.classpath
+/target
+.DS_Store
+*/target/**
+pom.xml
+*.log
+*.ipr
+*.iws
+antx.properties
